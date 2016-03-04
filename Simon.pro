@@ -24,14 +24,6 @@ HEADERS  += mainwindow.h \
 FORMS    += mainwindow.ui \
     wrongmovedialog.ui
 
-DISTFILES += \
-    belching.mp3 \
-    okly.mp3 \
-    barney.png \
-    ned.png \
-    dohdoh.mp3 \
-    ralphsad.jpg
-
 RESOURCES += \
     resources.qrc
 
